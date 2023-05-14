@@ -1,0 +1,31 @@
+.card{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(58, 140, 165);
+    align-items: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 5px solid rgb(33, 80, 94);
+}
+
+.portrait{
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid white;
+}
+
+.text{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    border: 1px solid white;
+    width: 200px;
+    padding: 10px;
+}
+
+.space{
+    margin-left: 15px;
+    margin-right: 15px;
+}
